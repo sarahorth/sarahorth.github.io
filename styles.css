@@ -1,0 +1,25 @@
+body{
+  background-color:powderblue;
+  font-family:'Open Sans Condensed','Arial',sans-serif;
+  color: gray;
+text-align: center;
+
+}
+#sloth{font-weight: bold;}
+.welcome{color:navy;font-size: 50pt;}
+/*.animal.mammal{color:red;font-weight: bold;
+}
+.animal.bird{color:blue;font-style: italic;}
+.animal.fish{color:orange;text-decoration: underline;}
+#sloth{color:gray;}
+#salmon{color:salmon;}
+#tiger{color:sienna;}
+#sheep{color:steelblue;}*/
+.welcome {border-style:dotted; border-color:plum; border-width:3px; border-radius: 5px;}
+li{border:2px solid white;}
+li:hover {
+    background-color: white;}
+a{display: block;}
+a::first-letter{font-size:150%;}
+a:visited{color:navy;}
+h3{font-size: 25pt}
